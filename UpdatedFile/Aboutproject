@@ -1,0 +1,16 @@
+public class APPLE
+{
+int a;
+public int getValue(){
+System.out.println(a);
+}
+
+class Banana
+{
+int k;
+public int getValue(){
+System.out.println(k);
+}
+
+
+
