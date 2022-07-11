@@ -12,5 +12,12 @@ public int getValue(){
 System.out.println(k);
 }
 
+class Banana
+{
+int km;
+public int getValue(){
+System.out.println(km);
+}
+
 
 
